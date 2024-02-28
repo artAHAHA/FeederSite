@@ -4,62 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb2c26ad-edcd-4fbd-8765-30162e744430" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/FeederSite.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FeederSite/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FeederSite/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FeederSite/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FeederSite/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FeederSite/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/migrations/0002_bait_alter_fish_options.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/static/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/static/images/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/static/images/footballTeam.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/static/images/image.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/static/js/coockies.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/static/js/pop-images.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/static/js/spoiler.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/templates/about.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/templates/bait.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/templates/feeding_up.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/templates/fish.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/templates/football_team.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/templates/menu.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/gifs/bbc-fish.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/images/1628416911_160-p-karas-zhivaya-foto-181.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/images/800px-YAz.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/images/L78BljG8zJo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/images/b318e77db429ab54781257277f8f0227.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/images/imgpreview.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/images/motyl5-6609658.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/images/plotva.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/images/scale_1200.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/images/scale_2400.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/videos/background.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/videos/bbc-fish.mp4" afterDir="false" />
+    <list default="true" id="cb2c26ad-edcd-4fbd-8765-30162e744430" name="Changes" comment="site">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -67,6 +21,17 @@
         <option value="HTML File" />
         <option value="JavaScript File" />
       </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
     </option>
   </component>
   <component name="Git.Settings">
@@ -94,12 +59,13 @@
     "RunOnceActivity.pycharm.django.structure.promotion.once.per.project": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "E:/PyCharm/PycharmProjects/FeederSite/media/videos",
+    "last_opened_file_path": "E:/PyCharm/PycharmProjects/FeederSite",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -165,7 +131,17 @@
       <workItem from="1709110409369" duration="13085000" />
       <workItem from="1709129452060" duration="4311000" />
       <workItem from="1709133780127" duration="14498000" />
+      <workItem from="1709148580298" duration="1807000" />
     </task>
+    <task id="LOCAL-00001" summary="site">
+      <option name="closed" value="true" />
+      <created>1709148627278</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1709148627278</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -173,5 +149,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="site" />
+    <option name="LAST_COMMIT_MESSAGE" value="site" />
   </component>
 </project>
