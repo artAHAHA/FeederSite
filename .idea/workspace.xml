@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cb2c26ad-edcd-4fbd-8765-30162e744430" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/FeederSite.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FeederSite/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FeederSite/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FeederSite/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FeederSite/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FeederSite/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/migrations/0002_bait_alter_fish_options.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/static/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/static/images/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/static/images/footballTeam.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/static/images/image.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/static/js/coockies.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/static/js/pop-images.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/static/js/spoiler.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/templates/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/templates/bait.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/templates/feeding_up.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/templates/fish.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/templates/football_team.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/templates/menu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/gifs/bbc-fish.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/images/1628416911_160-p-karas-zhivaya-foto-181.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/images/800px-YAz.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/images/L78BljG8zJo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/images/b318e77db429ab54781257277f8f0227.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/images/imgpreview.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/images/motyl5-6609658.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/images/plotva.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/images/scale_1200.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/images/scale_2400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/videos/background.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/videos/bbc-fish.mp4" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2cy1fj7qJ0qLOgQlhDfZ0Tv0Okj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Django Server.FeederSite.executor": "Run",
+    "RunOnceActivity.OpenDjangoStructureViewOnStart": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.pycharm.django.structure.promotion.once.per.project": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "E:/PyCharm/PycharmProjects/FeederSite/media/videos",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\PyCharm\PycharmProjects\FeederSite\media\videos" />
+      <recent name="E:\PyCharm\PycharmProjects\FeederSite\main\gifs" />
+      <recent name="E:\PyCharm\PycharmProjects\FeederSite\main\video" />
+      <recent name="E:\PyCharm\PycharmProjects\FeederSite\main\static\gifs" />
+      <recent name="E:\PyCharm\PycharmProjects\FeederSite\main\templates" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\PyCharm\PycharmProjects\FeederSite\media\videos" />
+      <recent name="E:\PyCharm\PycharmProjects\FeederSite\media" />
+      <recent name="E:\PyCharm\PycharmProjects\FeederSite\main\templates" />
+      <recent name="E:\PyCharm\PycharmProjects\FeederSite\main\static\images" />
+      <recent name="E:\PyCharm\PycharmProjects\FeederSite\feeder\static" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="FeederSite" type="Python.DjangoServer" factoryName="Django server">
+      <module name="FeederSite" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="FeederSite.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="localhost" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-d68999036c7f-b11f5e8da5ad-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.14475.56" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cb2c26ad-edcd-4fbd-8765-30162e744430" name="Changes" comment="" />
+      <created>1709069109321</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709069109321</updated>
+      <workItem from="1709069127439" duration="5892000" />
+      <workItem from="1709110409369" duration="13085000" />
+      <workItem from="1709129452060" duration="4311000" />
+      <workItem from="1709133780127" duration="14498000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

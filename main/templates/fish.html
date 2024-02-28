@@ -1,0 +1,50 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="../static/images/favicon.ico" type="image/x-icon">
+    <link type="text/css" href="{% static 'css/styles.css' %}" rel="stylesheet">
+    <title> Рыба </title>
+
+</head>
+
+<body>
+
+{% include 'menu.html' %}
+
+<div class="text-container">
+    <div class="centering">
+        <h1> Рыба </h1>
+
+    </div>
+
+    {% for el in fish %}
+        <div class="text">
+            <h3 class="centering">{{ el.title }}</h3>
+            <div class="img">
+                <p><img src="{{ el.photo.url }}" alt="Здесь должна быть фотография :)" width="600" height="350"></p>
+            </div>
+            <div class="pop-up">
+                <span>&times;</span>
+                <p><img src="{{ el.photo.url }}" alt="Здесь должна быть фотография :)" width="600" height="350"></p>
+            </div>
+
+            <span class="show-text">
+            {{ el.content|linebreaks }}
+        </span>
+            <button class="show-more-btn">Показать полностью</button>
+            <button class="show-less-btn" style="display:none;">Скрыть</button>
+        </div>
+    {% endfor %}
+</div>
+
+<script src="../static/js/pop-images.js"></script>
+<script src="../static/js/spoiler.js"></script>
+
+
+</body>
+</html>

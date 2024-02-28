@@ -1,0 +1,32 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{% static 'css/styles.css' %}">
+    <link rel="icon" href="../static/images/favicon.ico" type="image/x-icon">
+    <title> Основы фидерной рыбалке </title>
+
+</head>
+
+<body>
+
+{% include 'menu.html' %}
+
+
+<div class="intro">
+    <div class="video">
+        <video class="video_media" src="../../media/videos/background.mp4" autoplay muted loop></video>
+    </div>
+
+    <div class="intro_content">
+        <button onclick="saveState()">Сохранить состояние</button>
+        <button onclick="clearState()">Очистить состояние</button>
+    </div>
+</div>
+<script src="../static/js/coockies.js"></script>
+</body>
+</html>

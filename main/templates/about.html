@@ -1,0 +1,61 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="../static/images/favicon.ico" type="image/x-icon">
+    <link type="text/css" href="{% static 'css/styles.css' %}" rel="stylesheet">
+    <title> Об авторе </title>
+
+
+</head>
+
+<body>
+
+{% include 'menu.html' %}
+
+<div class="text">
+    <div class="text-container">
+
+        <div class="centering">
+            <h1> Обо мне </h1>
+        </div>
+
+        <p> Меня зовут Белокуров Артур Игоревич, я учусь в ВГУ на факультете компьютерных наук, и это мой первый
+            сайт.</p>
+
+        <div class="img">
+            <img src="{% static 'images/image.jpg' %}" alt="Здесь должна быть фотография :)" width="300" height="350">
+        </div>
+
+        <div class="pop-up">
+            <span>&times;</span>
+            <img src=src="{% static 'images/image.jpg' %}" alt="Здесь должна быть фотография :)" width="300"
+                 height="350">
+        </div>
+
+        <p> Данный сайт посвящён <i>фидерной рыбалке</i>. На нём вы можете больше узнать про одно из самых лучших
+            мужских
+            хобби
+            - <b>рыбалка</b>.</p>
+        <p> Если у Вас есть вопросы или предложения, то Вы можете
+            <a href="mailto:belokurovarturka@gmail.com">написать мне на почту.</a>
+        <p> Также Вы можете связаться со мной через социальные сети: </p>
+        <div class="contacts-link">
+            <ul>
+                <li><a href="https://vk.com/artahaha" target="_blank">ВКонтакте</a></li>
+                <li><a href="https://t.me/ArtAHAHA" target="_blank">Telegram</a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+
+<script src="../static/js/pop-images.js"></script>
+
+
+</body>
+</html>

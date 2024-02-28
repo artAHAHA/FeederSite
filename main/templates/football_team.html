@@ -1,0 +1,43 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="../static/images/favicon.ico" type="image/x-icon">
+    <link type="text/css" href="{% static 'css/styles.css' %}" rel="stylesheet">
+    <title> Футбольная команда </title>
+
+
+</head>
+
+<body>
+
+{% include 'menu.html' %}
+
+    <div class="text-container">
+        <div class="centering">
+            <h1> Футбольная команда "Рыбаки" </h1>
+        </div>
+        <div class="img">
+            <img src="../static/images/footballTeam.jpg" alt="Здесь должна быть фотография :)" width="600" height="400">
+        </div>
+
+        <div class="pop-up">
+            <span>&times;</span>
+            <img src="../static/images/footballTeam.jpg" alt="Здесь должна быть фотография :)" width="600" height="400">
+        </div>
+
+        <p> У каждого рыбака есть спортивный интерес и это проявляется не только в желании поймать как можно больше
+            рыбы.</p>
+        <p> Командные виды спорта - наш конёк, а футбольная команда <b>"Рыбаки"</b> самое яркое проявление этого.</p>
+        <p> Мы играем ради удовольствия, но нам нет равных. Результат приходит сам. </p>
+    </div>
+
+
+<script src="../static/js/pop-images.js"></script>
+
+</body>
+</html>
