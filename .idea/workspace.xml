@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb2c26ad-edcd-4fbd-8765-30162e744430" name="Changes" comment="site">
-      <change beforePath="$PROJECT_DIR$/FeederSite/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/FeederSite/settings.py" afterDir="false" />
+    <list default="true" id="cb2c26ad-edcd-4fbd-8765-30162e744430" name="Changes" comment="set django 4">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -135,7 +136,7 @@
       <workItem from="1709148580298" duration="1807000" />
       <workItem from="1709153828669" duration="229000" />
       <workItem from="1709154503298" duration="699000" />
-      <workItem from="1709242469911" duration="697000" />
+      <workItem from="1709242469911" duration="2367000" />
     </task>
     <task id="LOCAL-00001" summary="site">
       <option name="closed" value="true" />
@@ -169,7 +170,23 @@
       <option name="project" value="LOCAL" />
       <updated>1709243021514</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add host">
+      <option name="closed" value="true" />
+      <created>1709243178103</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1709243178103</updated>
+    </task>
+    <task id="LOCAL-00006" summary="set django 4">
+      <option name="closed" value="true" />
+      <created>1709243451083</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1709243451083</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -178,6 +195,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="site" />
-    <option name="LAST_COMMIT_MESSAGE" value="site" />
+    <MESSAGE value="add host" />
+    <MESSAGE value="set django 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="set django 4" />
   </component>
 </project>
