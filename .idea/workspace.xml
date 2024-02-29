@@ -24,6 +24,7 @@
       <list>
         <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="package.json" />
       </list>
     </option>
   </component>
