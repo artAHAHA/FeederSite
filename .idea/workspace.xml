@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb2c26ad-edcd-4fbd-8765-30162e744430" name="Changes" comment="new req">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-    </list>
+    <list default="true" id="cb2c26ad-edcd-4fbd-8765-30162e744430" name="Changes" comment="new req 2.9.6" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -140,7 +137,7 @@
       <workItem from="1709153828669" duration="229000" />
       <workItem from="1709154503298" duration="699000" />
       <workItem from="1709242469911" duration="3256000" />
-      <workItem from="1709309384507" duration="7278000" />
+      <workItem from="1709309384507" duration="7581000" />
     </task>
     <task id="LOCAL-00001" summary="site">
       <option name="closed" value="true" />
@@ -254,7 +251,39 @@
       <option name="project" value="LOCAL" />
       <updated>1709316833145</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="new req">
+      <option name="closed" value="true" />
+      <created>1709316890543</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1709316890544</updated>
+    </task>
+    <task id="LOCAL-00016" summary="new req">
+      <option name="closed" value="true" />
+      <created>1709316997586</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1709316997586</updated>
+    </task>
+    <task id="LOCAL-00017" summary="new req 2.7.7">
+      <option name="closed" value="true" />
+      <created>1709317088063</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1709317088063</updated>
+    </task>
+    <task id="LOCAL-00018" summary="new req 2.9.6">
+      <option name="closed" value="true" />
+      <created>1709317189972</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1709317189972</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -269,6 +298,8 @@
     <MESSAGE value="database" />
     <MESSAGE value="new requirements.txt" />
     <MESSAGE value="new req" />
-    <option name="LAST_COMMIT_MESSAGE" value="new req" />
+    <MESSAGE value="new req 2.7.7" />
+    <MESSAGE value="new req 2.9.6" />
+    <option name="LAST_COMMIT_MESSAGE" value="new req 2.9.6" />
   </component>
 </project>
