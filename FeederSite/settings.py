@@ -84,7 +84,7 @@ WSGI_APPLICATION = 'FeederSite.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'feeder-site-postgres',
+        'NAME': 'verceldb',
         'USER': 'default',
         'PASSWORD': 'mEAyF61iuUga',
         'PORT': '5432',
