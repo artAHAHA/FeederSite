@@ -30,6 +30,5 @@ urlpatterns = [
     path('fish/', fish, name='fish'),
     path('football_team/', football_team, name='football_team'),
 ]
-
 urlpatterns += static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
 urlpatterns += static(settings.STATIC_URL, document_root=settings.STATIC_ROOT)
