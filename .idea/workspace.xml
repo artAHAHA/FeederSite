@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb2c26ad-edcd-4fbd-8765-30162e744430" name="Changes" comment="new req 2.9.6">
-      <change afterPath="$PROJECT_DIR$/media/images/1628416911_160-p-karas-zhivaya-foto-181_bhYjair.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/images/800px-YAz_K3lo19W.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/images/L78BljG8zJo_34XXq6U.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/images/b318e77db429ab54781257277f8f0227_FJ8JjDQ.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/images/imgpreview_6jugsBl_G4eT6lj.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/images/motyl5-6609658_VTC4CtX_9Dq8ZPG.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/images/plotva_UFwnlZb.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/images/scale_1200_rJLhT2K_I4zZvM9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/images/scale_2400_AOcZG6j_ixNnvFs.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FeederSite/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/FeederSite/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vercel.json" beforeDir="false" afterPath="$PROJECT_DIR$/vercel.json" afterDir="false" />
-    </list>
+    <list default="true" id="cb2c26ad-edcd-4fbd-8765-30162e744430" name="Changes" comment="new req 2.9.6" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -150,7 +137,7 @@
       <workItem from="1709153828669" duration="229000" />
       <workItem from="1709154503298" duration="699000" />
       <workItem from="1709242469911" duration="3256000" />
-      <workItem from="1709309384507" duration="10934000" />
+      <workItem from="1709309384507" duration="11432000" />
     </task>
     <task id="LOCAL-00001" summary="site">
       <option name="closed" value="true" />
@@ -304,7 +291,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709317300157</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="new req 2.9.6">
+      <option name="closed" value="true" />
+      <created>1709320567120</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1709320567120</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
